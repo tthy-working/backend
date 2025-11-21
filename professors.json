@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Dr. Alice Johnson",
+        "email": "alice.johnson@university.edu",
+        "university": "Tech University",
+        "department": "Computer Science",
+        "research_interests": "AI, Machine Learning",
+        "accepting_students": true,
+        "rating": 4.8
+    },
+    {
+        "name": "Dr. Bob Smith",
+        "email": "bob.smith@university.edu",
+        "university": "State College",
+        "department": "Physics",
+        "research_interests": "Quantum Mechanics",
+        "accepting_students": false,
+        "rating": 4.2
+    }
+]
