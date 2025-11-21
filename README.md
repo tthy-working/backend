@@ -1,4 +1,4 @@
-# Professor Connection Backend API
+# Professor Connection Backend
 
 A backend API that helps students connect with professors by finding their contact information, research interests, and providing email templates.
 
